@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Landmark Projects & Case Studies - Hyperlink Media Services')
-@section('meta_description', 'Explore landmark technical event productions, hybrid broadcasts, and documentaries delivered by Hyperlink Media Services for the African Union, Government of Kenya, WASPA, ICPAK, and KTB.')
+@section('meta_description', 'Explore landmark technical event productions, hybrid broadcasts and documentaries delivered by Hyperlink Media Services for various Clients')
 
 @section('content')
     <!-- Projects Hero Banner -->
@@ -16,7 +16,7 @@
                 Our Portfolio
             </span>
             <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight max-w-3xl mx-auto leading-tight">
-                Landmark Projects & <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange to-cyan">Proven Executions</span>
+                Landmark Projects & <span class="text-transparent bg-clip-text bg-orange">Proven Executions</span>
             </h1>
             <p class="text-slate-300 text-lg max-w-2xl mx-auto mt-4 leading-relaxed">
                 Explore how Hyperlink Media Services delivers technical mastery for presidential summits, international forums, national expos, and corporate conferences across East Africa.

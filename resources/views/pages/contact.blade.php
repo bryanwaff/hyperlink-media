@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Contact Us - Get in Touch')
-@section('meta_description', 'Contact Hyperlink Media Services in Nairobi for technical event production quotes, live-streaming inquiries, AV setups, staging, or multi-camera videography.')
+@section('meta_description', 'Contact Hyperlink Media Services in Nairobi for technical event production quotes, live-streaming inquiries, AV setups, staging or multi-camera videography.')
 
 @section('content')
     <!-- Contact Hero Banner -->
@@ -16,10 +16,10 @@
                 We Visualize Your Imagination
             </span>
             <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight max-w-3xl mx-auto leading-tight">
-                Get in Touch With <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange to-cyan">Hyperlink Media Services</span>
+                Get in Touch With <span class="text-transparent bg-clip-text bg-orange">Hyperlink Media Services</span>
             </h1>
             <p class="text-slate-300 text-lg max-w-2xl mx-auto mt-4 leading-relaxed">
-                Planning an upcoming summit, hybrid conference, concert, or corporate gala? Contact our technical production team in Nairobi today for an event audit or quotation.
+                Planning an upcoming summit, hybrid conference, concert or corporate gala? Contact our technical production team in Nairobi today for an event audit or quotation.
             </p>
         </div>
     </section>

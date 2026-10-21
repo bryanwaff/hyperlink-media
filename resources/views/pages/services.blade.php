@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'Our Services - Technical Event Production & Media')
-@section('meta_description', 'Explore Hyperlink Media Services capabilities: event live-streaming, audio-visual solutions, multi-camera videography, documentary production, photography, and crew sourcing across East Africa.')
+@section('title', 'Our Services - Hyperlink Media Services')
+@section('meta_description', 'Explore Hyperlink Media Services capabilities: event live-streaming, audio-visual solutions, multi-camera videography, documentary production, photography and crew sourcing across East Africa.')
 
 @section('content')
     <!-- Services Hero Banner -->
@@ -16,7 +16,7 @@
                 What We Offer
             </span>
             <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight max-w-3xl mx-auto leading-tight">
-                Comprehensive Technical <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange to-cyan">Event Production</span>
+                Comprehensive Technical <span class="text-transparent bg-clip-text bg-orange">Event Production</span>
             </h1>
             <p class="text-slate-300 text-lg max-w-2xl mx-auto mt-4 leading-relaxed">
                 We are technical event production specialists who love nothing more than bringing to life spectacular live events to impress an audience.

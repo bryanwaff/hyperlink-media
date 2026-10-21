@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
-@section('title', 'About Us - Technical Event Production Specialists')
-@section('meta_description', 'Learn about Hyperlink Media Services: our mission, vision, technical capabilities, decades of event experience, and proven live production execution across East Africa.')
+@section('title', 'About Us - Hyperlink Media Services')
+@section('meta_description', 'Learn about Hyperlink Media Services: our mission, vision, technical capabilities, decades of event experience and proven live production execution across East Africa.')
 
 @section('content')
     <!-- About Hero Banner -->
@@ -16,7 +16,7 @@
                 We Visualize Your Imagination
             </span>
             <h1 class="text-4xl sm:text-5xl font-extrabold tracking-tight max-w-3xl mx-auto leading-tight">
-                Bringing Imagination to Life With <span class="text-transparent bg-clip-text bg-gradient-to-r from-orange to-cyan">Media Magic</span>
+                Bringing Imagination to Life With <span class="text-transparent bg-clip-text bg-orange">Media Magic</span>
             </h1>
             <p class="text-slate-300 text-lg max-w-2xl mx-auto mt-4 leading-relaxed">
                 Hyperlink Media Services is your trusted event partner for spectacular, engaging meetings and technical event production across East Africa and beyond.
